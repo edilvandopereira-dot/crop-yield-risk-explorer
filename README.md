@@ -2,7 +2,9 @@
 
 **A decision-oriented view of Brazilian soybean production and historical yield shortfalls.**
 
-By **Edilvando Eufrazio** · Applied Data Science
+By **[Edilvando Eufrazio](https://www.linkedin.com/in/edilvando-eufrazio-49b63417/)** · Applied Data Science
+
+**[Open the live dashboard](https://edilvandopereira-dot.github.io/crop-yield-risk-explorer/)** · [Source repository](https://github.com/edilvandopereira-dot/crop-yield-risk-explorer)
 
 ![Dashboard preview](assets/dashboard-preview.jpg)
 
@@ -21,7 +23,7 @@ The dashboard supports:
 - Production share, frequency, severity and explicit observed denominators.
 - Sortable comparisons and filtered JSON downloads.
 
-GitHub Pages can serve the `docs/` directory once the repository is published and Pages is enabled. No live public deployment is claimed by this README.
+The live dashboard is published with GitHub Pages from the `main` branch, `/docs` directory. The initial [analytical validation](https://github.com/edilvandopereira-dot/crop-yield-risk-explorer/actions/runs/38966130636) and [Pages deployment](https://github.com/edilvandopereira-dot/crop-yield-risk-explorer/actions/runs/38966284844) both completed successfully on 16 October 2026.
 
 ## First findings
 
