@@ -1,0 +1,20 @@
+{
+  "verified_on": "2026-10-16",
+  "repository_url": "https://github.com/edilvandopereira-dot/crop-yield-risk-explorer",
+  "repository_visibility": "public",
+  "dashboard_url": "https://edilvandopereira-dot.github.io/crop-yield-risk-explorer/",
+  "initial_verified_commit": "7af3e74919cef8a7a168817928fca2b8eb7b1df3",
+  "initial_files_verified_identical_to_local": 39,
+  "analytical_ci_url": "https://github.com/edilvandopereira-dot/crop-yield-risk-explorer/actions/runs/38966130636",
+  "analytical_ci_conclusion": "success",
+  "initial_pages_deployment_url": "https://github.com/edilvandopereira-dot/crop-yield-risk-explorer/actions/runs/38966284844",
+  "initial_pages_deployment_conclusion": "success",
+  "public_browser_check": {
+    "default_state": "Mato Grosso",
+    "default_shortfalls": "1 / 10",
+    "changed_state": "Rio Grande do Sul",
+    "changed_shortfalls": "3 / 10",
+    "changed_worst_gap": "-46.2%"
+  },
+  "linkedin_post_status": "draft_for_owner_review"
+}
