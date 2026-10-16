@@ -1,0 +1,37 @@
+{
+  "retrieved_at": "2026-10-16T20:13:29.323333+00:00",
+  "table": 1612,
+  "classification": 81,
+  "category": 2713,
+  "crop": "Soybeans (grain)",
+  "requested_years": [
+    2010,
+    2025
+  ],
+  "files": [
+    {
+      "file": "metadata.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/metadados",
+      "bytes": 4213,
+      "sha256": "19755ad7514b697fce888bc0331ba222181c5d421c0918635a86545abcc8b73c"
+    },
+    {
+      "file": "periods.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/periodos",
+      "bytes": 3173,
+      "sha256": "9b83092e19f7ef43f3a386234f54df40d0ed65fcd35d78f908cc1884e89ff3af"
+    },
+    {
+      "file": "states.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/periodos/2010-2025/variaveis/109%7C216%7C214%7C112?localidades=N3%5Ball%5D&classificacao=81%5B2713%5D",
+      "bytes": 37533,
+      "sha256": "589e401dfa319542e7c484c1b5c68099954c6e57ad3fa19775080c54c6120bac"
+    },
+    {
+      "file": "brazil.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/periodos/2010-2025/variaveis/109%7C216%7C214%7C112?localidades=N1%5Ball%5D&classificacao=81%5B2713%5D",
+      "bytes": 2300,
+      "sha256": "822f781446d3b9b6be169455de10e7f3c434e03b845e3248c8e731dac7263f76"
+    }
+  ]
+}
