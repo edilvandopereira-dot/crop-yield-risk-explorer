@@ -1,0 +1,402 @@
+{
+  "hashes_verified": 4,
+  "state_year_rows": 432,
+  "national_rows": 16,
+  "symbols": {
+    "109:-": 102,
+    "216:-": 103,
+    "214:-": 103,
+    "112:-": 103
+  },
+  "national_symbols": {},
+  "undefined_yield_rows": 103,
+  "aggregate_reconciliation": [
+    {
+      "year": 2010,
+      "field": "planted_ha",
+      "state_sum": 23339094.0,
+      "national": 23339094.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2010,
+      "field": "harvested_ha",
+      "state_sum": 23327296.0,
+      "national": 23327296.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2010,
+      "field": "production_t",
+      "state_sum": 68756343.0,
+      "national": 68756343.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2011,
+      "field": "planted_ha",
+      "state_sum": 24032410.0,
+      "national": 24032410.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2011,
+      "field": "harvested_ha",
+      "state_sum": 23968663.0,
+      "national": 23968663.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2011,
+      "field": "production_t",
+      "state_sum": 74815447.0,
+      "national": 74815447.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2012,
+      "field": "planted_ha",
+      "state_sum": 25090559.0,
+      "national": 25090559.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2012,
+      "field": "harvested_ha",
+      "state_sum": 24975258.0,
+      "national": 24975258.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2012,
+      "field": "production_t",
+      "state_sum": 65848857.0,
+      "national": 65848857.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2013,
+      "field": "planted_ha",
+      "state_sum": 27948605.0,
+      "national": 27948605.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2013,
+      "field": "harvested_ha",
+      "state_sum": 27906675.0,
+      "national": 27906675.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2013,
+      "field": "production_t",
+      "state_sum": 81724477.0,
+      "national": 81724477.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2014,
+      "field": "planted_ha",
+      "state_sum": 30308231.0,
+      "national": 30308231.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2014,
+      "field": "harvested_ha",
+      "state_sum": 30273763.0,
+      "national": 30273763.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2014,
+      "field": "production_t",
+      "state_sum": 86760520.0,
+      "national": 86760520.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2015,
+      "field": "planted_ha",
+      "state_sum": 32206387.0,
+      "national": 32206387.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2015,
+      "field": "harvested_ha",
+      "state_sum": 32181243.0,
+      "national": 32181243.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2015,
+      "field": "production_t",
+      "state_sum": 97464936.0,
+      "national": 97464936.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2016,
+      "field": "planted_ha",
+      "state_sum": 33339305.0,
+      "national": 33339305.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2016,
+      "field": "harvested_ha",
+      "state_sum": 33183119.0,
+      "national": 33183119.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2016,
+      "field": "production_t",
+      "state_sum": 96394820.0,
+      "national": 96394820.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2017,
+      "field": "planted_ha",
+      "state_sum": 34004361.0,
+      "national": 34004361.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2017,
+      "field": "harvested_ha",
+      "state_sum": 33959879.0,
+      "national": 33959879.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2017,
+      "field": "production_t",
+      "state_sum": 114732101.0,
+      "national": 114732101.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2018,
+      "field": "planted_ha",
+      "state_sum": 34838351.0,
+      "national": 34838351.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2018,
+      "field": "harvested_ha",
+      "state_sum": 34777936.0,
+      "national": 34777936.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2018,
+      "field": "production_t",
+      "state_sum": 117912450.0,
+      "national": 117912450.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2019,
+      "field": "planted_ha",
+      "state_sum": 35944094.0,
+      "national": 35944094.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2019,
+      "field": "harvested_ha",
+      "state_sum": 35895207.0,
+      "national": 35895207.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2019,
+      "field": "production_t",
+      "state_sum": 114316829.0,
+      "national": 114316829.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2020,
+      "field": "planted_ha",
+      "state_sum": 37204962.0,
+      "national": 37204962.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2020,
+      "field": "harvested_ha",
+      "state_sum": 37191138.0,
+      "national": 37191138.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2020,
+      "field": "production_t",
+      "state_sum": 121796549.0,
+      "national": 121796549.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2021,
+      "field": "planted_ha",
+      "state_sum": 39048835.0,
+      "national": 39048835.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2021,
+      "field": "harvested_ha",
+      "state_sum": 39031158.0,
+      "national": 39031158.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2021,
+      "field": "production_t",
+      "state_sum": 134468168.0,
+      "national": 134468168.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2022,
+      "field": "planted_ha",
+      "state_sum": 41297663.0,
+      "national": 41297663.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2022,
+      "field": "harvested_ha",
+      "state_sum": 41050906.0,
+      "national": 41050906.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2022,
+      "field": "production_t",
+      "state_sum": 121290103.0,
+      "national": 121290103.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2023,
+      "field": "planted_ha",
+      "state_sum": 44423983.0,
+      "national": 44423983.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2023,
+      "field": "harvested_ha",
+      "state_sum": 44417552.0,
+      "national": 44417552.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2023,
+      "field": "production_t",
+      "state_sum": 152144238.0,
+      "national": 152144238.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2024,
+      "field": "planted_ha",
+      "state_sum": 46208798.0,
+      "national": 46208798.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2024,
+      "field": "harvested_ha",
+      "state_sum": 45906902.0,
+      "national": 45906902.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2024,
+      "field": "production_t",
+      "state_sum": 144473768.0,
+      "national": 144473768.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2025,
+      "field": "planted_ha",
+      "state_sum": 47636956.0,
+      "national": 47636956.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2025,
+      "field": "harvested_ha",
+      "state_sum": 47621662.0,
+      "national": 47621662.0,
+      "difference": 0.0,
+      "missing_states": 0
+    },
+    {
+      "year": 2025,
+      "field": "production_t",
+      "state_sum": 165259014.0,
+      "national": 165259014.0,
+      "difference": 0.0,
+      "missing_states": 0
+    }
+  ],
+  "aggregate_discrepancies": [],
+  "yield_ratio_discrepancies_over_2_kg_ha": [],
+  "passed": true
+}
