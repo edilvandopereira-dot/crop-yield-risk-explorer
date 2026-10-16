@@ -129,6 +129,8 @@ def build():
     content = content.replace('__APP__',(ROOT/'web/app.js').read_text())
     docs = ROOT/'docs'; docs.mkdir(exist_ok=True)
     (docs/'index.html').write_text(content,encoding='utf-8')
+    (docs/'social-preview.png').write_bytes((ROOT/'assets/social-preview.png').read_bytes())
+    (docs/'favicon.svg').write_bytes((ROOT/'brand/simbolo.svg').read_bytes())
     print(json.dumps({'dashboard':'docs/index.html','rows':len(states),'latest_year':payload['latest_year'],
                       'national_production_t':brazil[-1]['production_t'],'qa_passed':qa['passed']},indent=2))
     return payload
