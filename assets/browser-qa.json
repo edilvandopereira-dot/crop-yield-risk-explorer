@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "desktop_visual": "passed",
+  "mobile_390px": "passed; shortened selected threshold label",
+  "state_change_RS": {
+    "yield_t_ha": 2.012,
+    "events": 3,
+    "n": 10,
+    "worst_gap_pct": -46.1941008563273
+  },
+  "threshold_20_RS_events": 2,
+  "south_filter_states": 3,
+  "undefined_yield_Paraiba": "displayed as unavailable, not zero",
+  "empty_north_2017_min_1mha": "explicit empty state displayed",
+  "downloaded_json": "15 eligible states, correct focus and minimum observation count",
+  "viewport_override": "reset",
+  "github_write_access": "not authenticated; publication unconfirmed"
+}
