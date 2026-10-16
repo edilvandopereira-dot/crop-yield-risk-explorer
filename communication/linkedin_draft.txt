@@ -1,0 +1,23 @@
+Brazil's largest soybean-producing state is only part of the sourcing story.
+
+I built a Crop Yield Risk Explorer using official IBGE data for 27 Brazilian states from 2010 to 2025.
+
+The question: where does production scale coexist with recurring or severe yield shortfalls?
+
+For a transparent starting point, I compared each state's annual yield with its mean over the preceding three years. The dashboard lets you change the shortfall threshold, time window and comparison filters.
+
+Under a 10% threshold during 2016–2025, Mato Grosso had one shortfall year out of ten evaluable years. Rio Grande do Sul had three, with its worst gap approximately 46% below its own recent baseline.
+
+Those numbers describe this historical window. They do not establish a probability for the next harvest, identify the causes of a decline or tell a buyer where to source.
+
+The useful next step is to investigate the regions, assumptions and additional evidence that could change a decision. A state with no observed events under one threshold is not automatically a low-risk supplier.
+
+Alongside the dashboard, I documented the source snapshot, SQL baseline, missing-data rules and checks against national totals. I want someone else to be able to reproduce the result and challenge the method.
+
+This is the first release of an independent portfolio project built with public data. I plan to extend it by testing alternative references and regional co-movement.
+
+Which comparison would make this more useful for your agricultural or supply-chain decisions?
+
+[Add the verified public dashboard and GitHub links after publication.]
+
+#DataScience #Agriculture #DecisionScience
