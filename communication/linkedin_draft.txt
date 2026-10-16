@@ -18,6 +18,7 @@ This is the first release of an independent portfolio project built with public 
 
 Which comparison would make this more useful for your agricultural or supply-chain decisions?
 
-[Add the verified public dashboard and GitHub links after publication.]
+Explore the dashboard: https://edilvandopereira-dot.github.io/crop-yield-risk-explorer/
+Code and methodology: https://github.com/edilvandopereira-dot/crop-yield-risk-explorer
 
 #DataScience #Agriculture #DecisionScience
