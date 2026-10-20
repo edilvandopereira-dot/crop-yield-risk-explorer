@@ -1,0 +1,19 @@
+{
+  "analysis_date": "2026-10-20",
+  "source_snapshot": "2026-10-16",
+  "source_refreshed": false,
+  "state_count": 27,
+  "matched_state_years": 182,
+  "comparison_cells_independently_checked": 216,
+  "unit_tests_passed": 8,
+  "source_total_reconciliations_passed": 48,
+  "browser_checks": {
+    "threshold_10_RS": "3/10 vs 4/10",
+    "threshold_20_RS": "2/10 vs 3/10",
+    "Paraiba_no_coverage": "Unavailable in both references",
+    "rows_retained": 27,
+    "download_20_RS": "2 and 3 events, 10 matched valid years"
+  },
+  "figure": "assets/baseline-sensitivity-2026-10-20.png",
+  "assessment": "Ready to share with stated coverage and descriptive-analysis limitations"
+}
