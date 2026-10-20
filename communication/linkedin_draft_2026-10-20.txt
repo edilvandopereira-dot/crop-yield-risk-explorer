@@ -1,0 +1,25 @@
+The yields stayed the same. The shortfall count changed.
+
+I extended my Crop Yield Risk Explorer to test one assumption: the historical reference used to identify a soybean yield shortfall.
+
+Using the same IBGE snapshot and the same 2016–2025 evaluation window, I compared each year's yield with the preceding three-year and five-year means. A shortfall still means strictly more than 10% below the reference.
+
+For ten matched valid years:
+• Rio Grande do Sul: 3 shortfall years with the three-year reference; 4 with five years.
+• Paraná: 2 with three years; 1 with five years.
+• Mato Grosso: 1 under either reference.
+
+The difference is tangible in Rio Grande do Sul's 2025 result: approximately 3.1% below the three-year mean, but 12.2% below the five-year mean.
+
+Neither reference is proven more accurate by this comparison. A longer reference reacts differently to trends and prior shocks. These are historical descriptions, not probabilities for the next harvest.
+
+The extension also lets readers vary the threshold from 5% to 20%, inspect matched denominators and download the comparison. I checked all 216 state/reference/threshold counts against independent SQL calculations.
+
+Before interpreting a risk indicator, I want to know which conclusions survive a reasonable change in its definition.
+
+What evidence would justify your choice of historical reference?
+
+Explore the comparison: https://edilvandopereira-dot.github.io/crop-yield-risk-explorer/sensitivity.html
+Code and methodology: https://github.com/edilvandopereira-dot/crop-yield-risk-explorer
+
+#DataScience #Agriculture #DecisionScience
