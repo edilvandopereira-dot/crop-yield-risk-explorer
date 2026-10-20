@@ -38,6 +38,14 @@ Using the **2016–2025** evaluation window and a shortfall defined as yield **s
 
 Mato Grosso accounted for approximately **30.4% of Brazil's reported soybean production in 2025**. These descriptive results illustrate why production volume and yield stability answer different questions. Zero observed events under one threshold does not establish that a state is safe or immune to future shocks. The threshold and period are analytical choices and should be tested through the controls.
 
+## Reference sensitivity extension — 20 October 2026
+
+[Open the sensitivity comparison](https://edilvandopereira-dot.github.io/crop-yield-risk-explorer/sensitivity.html). It pairs the preceding three- and five-year means on the **same valid years for each state**, retaining all 27 states. Thresholds of 5%, 10%, 15% and 20% can be compared and exported. Missing coverage is explicit; no minimum-area filter is applied in this companion report.
+
+At a strict 10% threshold during 2016–2025, Rio Grande do Sul changes from **3/10** to **4/10**, Paraná from **2/10** to **1/10**, Mato Grosso remains **1/10**, and Goiás remains **0/10**. All four have ten matched valid years. This does not establish which reference is more accurate. The source snapshot stays at 16 October 2026.
+
+See [analysis and QA](analysis/sensitivity_2026-10-20.md), [reproducible computation](scripts/sensitivity.py) and [social figure](assets/baseline-sensitivity-2026-10-20.png). The LinkedIn follow-up is a **draft for review**, distinct from the first post published on 16 October.
+
 ## Data and provenance
 
 - **Provider:** IBGE, Municipal Agricultural Production (PAM).
@@ -117,12 +125,12 @@ communication/    LinkedIn draft and alt text
 
 ## Next releases
 
-1. Test alternative historical references and show which descriptive conclusions change.
+1. Extend the implemented three- versus five-year reference comparison to additional defensible references, with a specified decision question.
 2. Evaluate co-movement of regional yield gaps before drawing a diversification conclusion.
 3. Add municipality-level exploration with explicit coverage, administrative-boundary checks and disclosure limits.
 4. Add climate covariates only after defining a prediction horizon, feature availability and temporal evaluation protocol.
 
-These are planned extensions, not implemented capabilities.
+These are planned extensions beyond the implemented reference-sensitivity comparison.
 
 ## Attribution
 
