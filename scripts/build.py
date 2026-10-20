@@ -3,6 +3,7 @@ import hashlib
 import json
 import math
 import sqlite3
+import subprocess
 import sys
 from collections import Counter
 from pathlib import Path
@@ -131,6 +132,7 @@ def build():
     (docs/'index.html').write_text(content,encoding='utf-8')
     (docs/'social-preview.png').write_bytes((ROOT/'assets/social-preview.png').read_bytes())
     (docs/'favicon.svg').write_bytes((ROOT/'brand/simbolo.svg').read_bytes())
+    subprocess.run([sys.executable, str(ROOT/'scripts/sensitivity.py')], check=True)
     print(json.dumps({'dashboard':'docs/index.html','rows':len(states),'latest_year':payload['latest_year'],
                       'national_production_t':brazil[-1]['production_t'],'qa_passed':qa['passed']},indent=2))
     return payload
